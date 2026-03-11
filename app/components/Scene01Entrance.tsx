@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import ScrollScene from "./ScrollScene";
+import ScrollScene from "./ScrollScene.js";
 
 const particles = Array.from({ length: 24 }).map((_, index) => ({
   id: index,
