@@ -29,3 +29,29 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/KatkamKoushik/proposal-website.git
+
+
+Install dependencies:
+
+npm install
+
+Run the development server:
+npm run dev
+
+Open http://localhost:3000⁠� in your browser.
+Deployment
+The project is deployed on Vercel.
+Author
+Katkam Koushik
+
+
+---
+
+# How to Add It on GitHub
+
+1. Open your repo  
+   **1**
+
+2. Click **Add file → Create new file**
+
+3. Name it:
