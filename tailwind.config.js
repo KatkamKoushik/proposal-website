@@ -10,7 +10,8 @@ module.exports = {
       colors: {
         romanticPink: "#F9C6D4",
         duskyLavender: "#B9A4F5",
-        roseGold: "#B76E79"
+        roseGold: "#B76E79",
+        starlightGold: "#FDF4DC"
       },
       backgroundImage: {
         "romantic-gradient":
@@ -23,4 +24,3 @@ module.exports = {
   },
   plugins: []
 };
-
